@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Tortumine
- * Date: 15-08-17
- * Time: 21:23
- */
+
 class database
 {
     private static $db_connection = NULL;
