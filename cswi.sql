@@ -55,8 +55,8 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`login`, `birth_date`, `e_mail`, `pass_word`, `security_level`) VALUES
 ('admin', '2017-08-01', 'admin@mail.adm', 'f0b4b965436ccd584d5d971b764bae0d41ff672f', 10),
-('alexis', '1993-06-21', 'alexis@mail.com', 'f0b4b965436ccd584d5d971b764bae0d41ff672f', 10),
-('alex', '2017-08-11', 'alex@mail.be', 'f0b4b965436ccd584d5d971b764bae0d41ff672f', 5);
+('user1', '1993-06-21', 'user1@mail.com', 'f0b4b965436ccd584d5d971b764bae0d41ff672f', 10),
+('user2', '2017-08-11', 'user2@mail.be', 'f0b4b965436ccd584d5d971b764bae0d41ff672f', 5);
 
 --
 -- Index pour les tables exportées
